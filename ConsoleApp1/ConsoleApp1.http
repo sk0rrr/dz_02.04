@@ -1,0 +1,6 @@
+@ConsoleApp1_HostAddress = http://localhost:5070
+
+GET {{ConsoleApp1_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
